@@ -1,2 +1,2 @@
-# simple_preprocessing
-This is about the Preprocessing technique in Machine Learning. In which I am using Standard Scaler and Label Encoding.  
+# PREPROCESSING STRUCTURED DATA WITH ML AND DEEP LEARNING.
+This repository is about the Preprocessing technique in Machine Learning and deep learning in which I am preprocessing structured data.  
