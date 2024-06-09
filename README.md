@@ -14,10 +14,9 @@ This repository includes all the code from the book "Hands-On Machine Learning w
 
 ## Contents
 
-- **Images:** Preprocessing techniques for image data
-- **Text:** Preprocessing techniques for text data
-- **Speech:** Preprocessing techniques for speech data
+- **DataFrame:** Preprocessing techniques for Pandas data frame
+- **Matplotlib:** visualization is done by using matplotlib library
 
 ## About
 
-This repository aims to serve as a comprehensive guide for preprocessing unstructured data, with practical examples and code from the aforementioned book.
+This repository aims to serve as a comprehensive guide for preprocessing structured data, with practical examples and code from the aforementioned book.
